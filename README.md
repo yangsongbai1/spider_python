@@ -28,7 +28,6 @@
 * [爬取 Boss 直聘网的职位信息 - selenium + lxml](./spiders/spider_boss.py)
 
 
-
 ## Scrapy 框架爬虫
 * [爬取糗事百科的段子保存到 JSON 文件中](./scrapy/qsbk/readme.MD)
 * [爬取微信小程序论坛的数据](./scrapy/weixin_community/readme.MD)
